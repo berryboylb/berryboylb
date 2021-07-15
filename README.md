@@ -1,4 +1,4 @@
-### Psssst!!! 👋
+### Psssst Hi!!! 👋
 
 - 🔭 I’m currently working on a Lucid Blog Clone with extra Features
 - 🌱 I’m currently learning Laravel|React|Flutter
