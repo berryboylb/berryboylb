@@ -1,7 +1,7 @@
 ### Psssst Hi!!! 👋
 
 - 🔭 I’m currently working on a Lucid Blog Clone with extra Features
-- 🌱 I’m currently learning Laravel|React|Flutter
+- 🌱 I’m currently learning Laravel|React|Flutter|Kicad
 - 👯 I’m looking to collaborate on ... Any project i can put value into
 - 🤔 I’m looking for help with ... a Macbook
 - 💬 Ask me about ... Code, Bugs and football.
