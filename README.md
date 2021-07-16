@@ -7,4 +7,4 @@
 - 💬 Ask me about ... Code, Bugs and football.
 - 📫 How to reach me: ... https://eager-bartik-5094cd.netlify.app/
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... The illiterates of the 21st century is those who refuse to learn, unlearn and relearn.
+- ⚡ Fun fact: ... The illiterates of the 21st century are those who refuse to learn, unlearn and relearn.
