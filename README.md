@@ -1,7 +1,5 @@
 ### Psssst Hi!!! 👋
 
-- 🔭 I’m currently working on Devconnector || web3
-- 🌱 I’m currently learning Node|Solidity
 - 👯 I’m looking to collaborate on ... Any project i can put value into
 - 🤔 I’m looking for help with ... a Macbook
 - 💬 Ask me about ... Code, Bugs and football.
@@ -19,9 +17,3 @@
 [![Berryboylb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=berryboylb)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/berryboylb/TodoWebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berryboylb&repo=TodoWebApp" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berryboylb&repo=convoychat" />
-</a>
