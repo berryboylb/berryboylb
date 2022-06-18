@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... The illiterates of the 21st century are those who refuse to learn, unlearn and relearn 😄.
 
 
-[![Berryboylb's github stats](https://github-readme-stats.vercel.app/api?username=berryboylb&show_icons=true)](https://github.com/asdsda/github-readme-stats)
+[![Berryboylb's github stats](https://github-readme-stats.vercel.app/api?username=berryboylb&show_icons=true&theme=onedark)](https://github.com/asdsda/github-readme-stats)
