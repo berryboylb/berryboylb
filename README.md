@@ -8,6 +8,9 @@
 - 😄 Pronouns: ... he/him/they
 - ⚡ Fun fact: ... The illiterates of the 21st century are those who refuse to learn, unlearn and relearn 😄.
 
+## Languages and Tools:
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
 
 [![Berryboylb's github stats](https://github-readme-stats.vercel.app/api?username=berryboylb&show_icons=true&theme=radical)](https://github.com/asdsda/github-readme-stats)
 
