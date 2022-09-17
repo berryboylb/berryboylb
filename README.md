@@ -1,8 +1,10 @@
-### Psssst Hi!!! 👋
-
+### Hi👋, I'm Femi!
+## A passionate fullstack developer from Nigeria.
+- ⚡ I'm currently open to a full stack developer role.
+- ⚡ I'm currently learning Nestjs and Solidity.
 - 👯 I’m looking to collaborate on ... Any project i can put value into
 - 💬 Ask me about ... Code, Bugs and football.
-- 📫 How to reach me: ... https://eager-bartik-5094cd.netlify.app/
+- 📫 How to reach me: ... https://resume.io/r/tYL5hfBV8
 - 😄 Pronouns: ... he/him/they
 - ⚡ Fun fact: ... The illiterates of the 21st century are those who refuse to learn, unlearn and relearn 😄.
 
