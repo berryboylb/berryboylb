@@ -10,7 +10,7 @@
 - ⚡ I'm currently learning Nestjs and Solidity.
 - 👯 I’m looking to collaborate on ... Any project i can put value into
 - 💬 Ask me about ... Code, Bugs and football.
-- 📫 How to reach me: ... https://resume.io/r/tYL5hfBV8
+- 📫 How to reach me: ... [https://myresu.me](https://bit.ly/48CYjPV)
 - 😄 Pronouns: ... he/him/they
 - ⚡ Fun fact: ... The illiterates of the 21st century are those who refuse to learn, unlearn and relearn 😄.
 
