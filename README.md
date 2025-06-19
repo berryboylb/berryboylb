@@ -6,8 +6,8 @@
 ## Github Stats:
 [![Berryboylb's github stats](https://github-readme-stats.vercel.app/api?username=berryboylb&show_icons=true&theme=radical)](https://github.com/asdsda/github-readme-stats)
 
-- ⚡ I'm currently open to a full stack developer role.
-- ⚡ I'm currently learning Golang and C#.
+- ⚡ I'm currently open to a new roles.
+- ⚡ I'm currently learning Golang.
 - 👯 I’m looking to collaborate on ... Any project i can put value into
 - 💬 Ask me about ... Code, Bugs and football.
 - 📫 How to reach me: ... [https://myresu.me](https://docs.google.com/document/d/1NoAHvtWKoipXT3x1d-mOhbuVpLPizTh8ThBUYJghtfU/edit?usp=sharing)
