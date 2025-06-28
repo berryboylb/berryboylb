@@ -9,7 +9,7 @@
 - ⚡ I'm currently open to a new roles.
 - ⚡ I'm currently learning Golang.
 - 👯 I’m looking to collaborate on ... Any project i can put value into
-- 💬 Ask me about ... Code, Bugs and football.
+- 💬 Ask me about ... AI, Blockchain, Security .
 - 📫 How to reach me: ... [https://myresu.me](https://docs.google.com/document/d/1NoAHvtWKoipXT3x1d-mOhbuVpLPizTh8ThBUYJghtfU/edit?usp=sharing)
 - 😄 Pronouns: ... he/him/they
 - ⚡ Fun fact: ... The illiterates of the 21st century are those who refuse to learn, unlearn and relearn 😄.
